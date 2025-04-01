@@ -1,0 +1,48 @@
+div {
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+div a {
+    text-decoration: none;
+    color: white;
+}
+
+.two {
+    background-color: white;
+    padding-left: 400px;
+    display: inline-block;
+    display: flex;
+    text-align: center;    
+}
+.two-one,.two-two,.two-three,.two-four{
+    margin-right: 10px;
+    padding: 0px;
+    height:400px ;
+    width: 200px;
+    background-color: white;
+    color: black;
+    border: solid black 1px;
+
+}
+
+.two img{
+    width: 200px;
+    height: 250px;
+    display: inline-block;
+}
+.three{
+    background-color: black;
+   
+}
+.three-one{
+    margin-left: 630px;
+    margin-right:500px;
+    margin-top: -70px;
+
+}
+.submit{
+    background-color: yellow;
+}
